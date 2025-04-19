@@ -8,19 +8,19 @@ This repository is a compilation of my experiments and projects in Go, showcasin
 
 **What's Inside?**
 
-Web Applications: Projects showcasing web development using Go's net/http package and frameworks.
+**Web Applications**: Projects showcasing web development using Go's net/http package and frameworks.
 
-CLI Tools: Command-line tools for automation or utility tasks.
+**CLI Tools**: Command-line tools for automation or utility tasks.
 
-Data Processing: Scripts and applications for data manipulation and processing.
+**Data Processing**: Scripts and applications for data manipulation and processing.
 
-API Development: RESTful APIs built with Go.
+**API Development**: RESTful APIs built with Go.
 
-Concurrency Examples: Demonstrations of Go's goroutines and channels.
+**Concurrency Examples**: Demonstrations of Go's goroutines and channels.
 
-Error Handling: Examples of robust error management and debugging.
+**Error Handling**: Examples of robust error management and debugging.
 
-Others: Miscellaneous projects covering unique challenges and solutions in Go.
+**Others**: Miscellaneous projects covering unique challenges and solutions in Go.
 
 **Why This Repository?**
 
